@@ -1,0 +1,29 @@
+#homeimg, #earthimg, #mountainimg, #landscapeimg {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50%;
+        width: 50%;
+}
+
+#nextBlog {
+        display: block;
+        background-color: maroon;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 16px;
+        text-align: center;
+        
+        border: none;
+        padding: 15px 32px;
+    }
+
+figcaption {
+        display: grid;
+        text-align: center;
+}
+
+p {
+        text-align: justify;
+        font-size: 20px;
+}
+

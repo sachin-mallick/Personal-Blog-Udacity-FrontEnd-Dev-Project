@@ -1,0 +1,32 @@
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    grid-area: hd;
+}
+
+.hdul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: brown;
+}
+
+li {
+    display: inline;
+    
+    border: 1px white;
+}
+
+li a {
+    display: inline;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+    padding: 1% 5%;
+}
+
+h1, h2,h3,h4 {
+    
+    text-align: center;
+    margin: 0.3%;
+}
